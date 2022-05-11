@@ -3,6 +3,7 @@
 ### Passionate about data and analytics. Economist 🎆
 
 - ✍ You can find my SQL projects here [portfolio](https://github.com/ferranindata/SQL-Portfolio-Projects)
+- ✍ You can find my Python projects here [portfolio](https://github.com/ferranindata/Python-Portfolio-Projects)
 - 👀 I’m interested in improving my skills in Python and SQL
 - 🥅 My next goal will be to learn ML
 - 💞️ I’m looking to collaborate on Python and SQL
