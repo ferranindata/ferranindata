@@ -9,7 +9,7 @@
 - ⚡ Fact: I will be very happy the day I join my two passions: finance and data in the same job!
 
 ### Talk with me, I would like to meet you:
-[View LinkedIn Profile](https://www.linkedin.com/in/ferranespunya/)
+[View LinkedIn Profile](https://www.linkedin.com/in/ferran-espunya/)
 
 <br />
 
