@@ -4,6 +4,7 @@
 
 - ✍ You can find my SQL projects here [portfolio](https://github.com/ferranindata/SQL-Portfolio-Projects)
 - ✍ You can find my Python projects here [portfolio](https://github.com/ferranindata/Python-Portfolio-Projects)
+- ✍ You can find my data visualizations using Tableau here [portfolio](https://public.tableau.com/app/profile/ferran.espunya)
 - 👀 I’m interested in improving my skills in Python and SQL
 - 🥅 My next goal will be to learn Python for financial analysis
 - 💞️ I’m looking to collaborate on a Data Analyst role
