@@ -5,7 +5,7 @@
 - ✍ You can find my SQL projects here [portfolio](https://github.com/ferranindata/SQL-Portfolio-Projects)
 - ✍ You can find my Python projects here [portfolio](https://github.com/ferranindata/Python-Portfolio-Projects)
 - 👀 I’m interested in improving my skills in Python and SQL
-- 🥅 My next goal will be to learn ML
+- 🥅 My next goal will be to learn Python for financial analysis
 - 💞️ I’m looking to collaborate on a Data Analyst role
 - ⚡ Fact: I will be very happy the day I join my two passions: finance and data in the same job!
 
