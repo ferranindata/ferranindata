@@ -9,7 +9,7 @@
 - 👀 I’m interested in improving my skills in SQL
 - 🥅 My next goal will be to learn Python for financial analysis
 - 💞️ I’m looking to collaborate on a Data Analyst role
-- ⚡ Fact: I will be very happy the day I join my two passions: finance and data in the same job!
+- ⚡ Fact: I will be very happy the day I join my two passions: data and finance in the same job!
 
 ### Talk with me, I would like to meet you:
 [View LinkedIn Profile](https://www.linkedin.com/in/ferran-espunya/)
