@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ferran!
 
-### Passionate about data. Economist. Data Analyst Student 🎆
+### Passionate about data. Economist🎆
 
 - ✍ You can find my SQL projects here [portfolio](https://github.com/ferranindata/SQL-Portfolio-Projects)
 - ✍ You can find my Python projects here [portfolio](https://github.com/ferranindata/Python-Portfolio-Projects)
