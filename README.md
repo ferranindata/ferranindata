@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Ferran!
 
-### Passionate about data. Economist🎆
+### Economist passionate about data
 
 - ✍ You can find my SQL projects here [portfolio](https://github.com/ferranindata/SQL-Portfolio-Projects)
 - ✍ You can find my Python projects here [portfolio](https://github.com/ferranindata/Python-Portfolio-Projects)
+- ✍ You can find my Tableau projects here [portfolio](https://public.tableau.com/app/profile/ferran.espunya)
 - ✍ You can find my Excel projects here [portfolio](https://github.com/ferranindata/Excel-Portfolio-Projects)
-- ✍ You can find my data visualizations using Tableau here [portfolio](https://public.tableau.com/app/profile/ferran.espunya)
+
 - 👀 I’m interested in improving my skills in SQL and Python
 - 🥅 My next goal will be to get better in Python for financial analysis
-- 💞️ I’m looking to collaborate on a Data Analyst role
-- ⚡ Fact: I will be very happy the day I join my two passions: data and finance in the same job!
+- ⚡ Fact: I will be very happy the day I join my two passions: data and finance!
 
 ### Talk with me, I would like to meet you:
 [View LinkedIn Profile](https://www.linkedin.com/in/ferranespunya/)
@@ -17,16 +17,16 @@
 <br />
 
 ### Languages and Data Analytics Tools:
-- [x] SQL
+- [x] SQL (SQL Server & BigQuery)
 - [x] Python
+- [x] Alteryx
 - [x] Microsoft Excel
-- [x] R
 
 <br />
 
 ### Data Visualization Tools:
-- [x] Microsoft Excel
 - [x] Tableau
+- [x] Microsoft Excel
 
 <br />
 
