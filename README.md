@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in improving my skills in SQL and Python
 - 🥅 My next goal will be to get better in Python for financial analysis
-- ⚡ Fact: I will be very happy the day I join my two passions: data and finance!
+- ⚡ Fact: The more I learn to tell stories with data, the more I realize the number of "data stories" that haven't been told yet!
 
 ### Talk with me, I would like to meet you:
 [View LinkedIn Profile](https://www.linkedin.com/in/ferranespunya/)
