@@ -15,6 +15,7 @@
 [View LinkedIn Profile](https://www.linkedin.com/in/ferranespunya/)
 
 <br />
+
 ### Languages and Data Analytics Tools:
 - [x] SQL (SQL Server & BigQuery)
 - [x] Tableau
