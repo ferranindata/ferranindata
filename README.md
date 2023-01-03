@@ -18,15 +18,11 @@
 
 ### Languages and Data Analytics Tools:
 - [x] SQL (SQL Server & BigQuery)
+- [x] Tableau
 - [x] Python
 - [x] Alteryx
 - [x] Microsoft Excel
 
-<br />
-
-### Data Visualization Tools:
-- [x] Tableau
-- [x] Microsoft Excel
 
 <br />
 
